@@ -3,7 +3,6 @@ import resolvers from './resolvers'
 import schema from './schema'
 
 import {graphqlHTTP} from 'express-graphql'
-import { graphql } from 'graphql'
 
 const app = express()
 
